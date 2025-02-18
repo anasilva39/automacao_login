@@ -3,7 +3,7 @@
 Este projeto utiliza `Behave` e `Requests` para validar operações CRUD na API de Login.
 
 ## Objetivo
-Validar os quatro endpoints do CRUD de login (POST, GET, PUT, DELETE) criando pelo menos quatro testes, utilizando esquemas de cenários e aplicando pelo menos duas parametrizações.
+Validar os quatro endpoints do CRUD de login (POST, GET, PUT, DELETE) criando pelo menos quatro testes.
 
 ## Pré-requisitos
 - Python 3.x
